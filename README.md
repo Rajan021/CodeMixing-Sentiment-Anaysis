@@ -1,6 +1,6 @@
 ## What is code-mixed sentimental analysis
 
- Code-mixing is the mixing of two or more languages or language varieties in speech.
+ Code-mixing is the mixing of two or more languages or language varieties in speech\
  We have taken two languages to be Hindi and English.
 ● Example: Iss flying parinday ke feathers gin k batao to manu
 
